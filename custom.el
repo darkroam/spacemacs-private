@@ -47,7 +47,7 @@
  '(paradox-github-token t)
  '(pyim-dicts
    (quote
-    ((:name "pyim" :file "/home/blue/.spacemacs.d/pyim-bigdict.pyim.gz"))))
+    ((:name "pyim" :file "~/.spacemacs.d/pyim-bigdict.pyim.gz"))))
  '(ring-bell-function (quote ignore))
  '(safe-local-variable-values
    (quote

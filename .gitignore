@@ -2,3 +2,4 @@
 /layers/zilongshanren-misc/.DS_Store
 /.spacemacs.env
 *.elc
+pyim-bigdict.pyim.gz
