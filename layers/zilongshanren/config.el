@@ -10,9 +10,9 @@
 
 (if (spacemacs/system-is-mswindows)
     (setq
-     org-agenda-dir "d:/org-notes"
-     deft-dir "d:/org-notes"
-     blog-admin-dir "d:/zilongshanren.com")
+     org-agenda-dir "C:\\Users\\BLuE\\iCloudDrive\\iCloud~com~coderforart~iOS~MWeb\\What-did-I-learn\\org"
+     deft-dir "C:\\Users\\BLuE\\iCloudDrive\\iCloud~com~coderforart~iOS~MWeb\\What-did-I-learn\\org"
+     blog-admin-dir "C:\\Users\\BLuE\\iCloudDrive\\iCloud~com~coderforart~iOS~MWeb\\What-did-I-learn\\org")
   (setq
    org-agenda-dir "~/Documents/org-notes"
    deft-dir "~/Documents/org-notes"
